@@ -1,0 +1,1 @@
+1. Application my-test-app-react has been successfully deployed!!
